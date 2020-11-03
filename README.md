@@ -1,5 +1,6 @@
-# design-patterns
+# Design Patterns: Code Samples 
 Code samples implementing various design patterns
 
-- Strategy
-- Observer 
+- Behavioural Patterns
+  - Strategy
+  - Observer 
